@@ -14,3 +14,4 @@ address as the user who invited them can also attract 7 (this number 8, until 80
 participants each. And the payment of each new participant will be distributed in the same way as yours 
 into five equal parts - the five higher addresses of ethereum.
 Smart contract work up and running, you can connect to the site bestroi.io
+Each address of the air can participate - once!
